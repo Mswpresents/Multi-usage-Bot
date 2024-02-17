@@ -3,11 +3,11 @@ from aiohttp import ClientSession
 
 session = ClientSession()
 
-SOURCE = """[Github](https://github.com/Jeolpaul/TG-MULTI-BOT) | [Updates](t.me/beta_botz)
+SOURCE = """**Cʜᴇᴄᴋ Aғᴛᴇʀ Fᴇᴡ Yᴇᴀʀs.😀😎 | [Updates](t.me/mswpresent)
 ```----------------
 | Contributors |
 ----------------```
-{dev} """
+{dev} **"""
 
 
 async def get(url: str, *args, **kwargs):
