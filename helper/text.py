@@ -9,7 +9,7 @@ Eg:- Telegarph, Channel ID, Image editor etc... **"""
 ║╭━━━━━━━━━━━━━━━➣
 ║┣⪼🤖ᴍʏ ɴᴀᴍᴇ : {bot}
 ║┣⪼👦ᴅᴇᴠ 1 : <a href=https://t.me/mswpresent>𝕄𝕤ᴡ ℙʀᴇ𝕤ᴇɴᴛ𝕤</a>
-║┣⪼❣️sᴏᴜʀᴄᴇ ᴄᴏᴅ : <b>Cʜᴇᴄᴋ Aғᴛᴇʀ Fᴇᴡ Yᴇᴀʀs.😀😎</b>
+║┣⪼❣️sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : <a href=https://github.com/Mswpresents/Multi-usage-Bot>Multi-usage-Bot</a>
 ║┣⪼🗣️ʟᴀɴɢᴜᴀɢᴇ : <a href=https://www.python.org>ᴘʏᴛʜᴏɴ3</a>
 ║┣⪼📚ʟɪʙʀᴀʀʏ : <a href=https://github.com/pyrogram>ᴘʏʀᴏɢʀᴀᴍ</a> 
 ║┣⪼🗒️ᴠᴇʀsɪᴏɴ : 𝙼𝚄𝙻𝚃𝙸 𝙱𝙾𝚃 v3.0.1 
@@ -115,7 +115,7 @@ Translate text to speech
 • These commands works on both pm and group.
 • this can translate texts to 200+ languages."""
 
-    SOURCE = """Cʜᴇᴄᴋ Aғᴛᴇʀ Fᴇᴡ Yᴇᴀʀs.😀😎 | [Updates](t.me/mswpresent)
+    SOURCE = """❣️sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : <a href=https://github.com/Mswpresents/Multi-usage-Bot>Multi-usage-Bot</a> | [Updates](t.me/mswpresent)
 ```----------------
 | Contributors |
 ----------------```
