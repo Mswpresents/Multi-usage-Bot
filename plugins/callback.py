@@ -25,7 +25,7 @@ async def callback(client: Client, query: CallbackQuery):
        await query.message.edit(
            text = tg.STAT.format(query.from_user.mention),        
            reply_markup=InlineKeyboardMarkup( [[
-               InlineKeyboardButton("🍁 ꜱᴜᴩᴩᴏʀᴛ", url="https://t.me/TeamjaishriramBot"),
+               InlineKeyboardButton("🍁 ꜱᴜᴩᴩᴏʀᴛ", url="https://t.me/RoBin_Hoodoffline"),
                InlineKeyboardButton("📯 ᴜᴩᴅᴀᴛᴇꜱ", url="https://t.me/mswpresent")
                ],[            
                InlineKeyboardButton("ℹ️ ʜᴇʟᴩ", callback_data="help"),
@@ -198,17 +198,17 @@ async def callback(client: Client, query: CallbackQuery):
            parse_mode=enums.ParseMode.HTML        
        )            
     elif query.data == "source":
-       users = await get("**Cʜᴇᴄᴋ Aғᴛᴇʀ Fᴇᴡ Yᴇᴀʀs.😀😎**")
+       users = await get("https://github.com/Mswpresents/Multi-usage-Bot")
        list_of_users = ""
        count = 1
        for user in users:
            list_of_users += (f"**{count}.** [{user['login']}]({user['html_url']})\n")       
            count += 1
        buttons = [[
-           InlineKeyboardButton("👨‍💻 𝙳𝙴𝚅 1", url="https://t.me/yourwellwisher_robin"),
-           InlineKeyboardButton("👨‍💻 𝙳𝙴𝚅 2", url="https://t.me/TeamjaishriramBot")
+           InlineKeyboardButton("👨‍💻 𝙳𝙴𝚅 1", url="https://t.me/RoBin_Hoodoffline"),
+           InlineKeyboardButton("👨‍💻 𝙳𝙴𝚅 2", url="https://t.me/NDALoverAnkush")
            ],[
-           InlineKeyboardButton("❣️ 𝐒𝐎𝐔𝐑𝐂𝐄 𝐂𝐎𝐃𝐄 ❣️", url="**Cʜᴇᴄᴋ Aғᴛᴇʀ Fᴇᴡ Yᴇᴀʀs.😀😎**"),
+           InlineKeyboardButton("❣️ 𝐒𝐎𝐔𝐑𝐂𝐄 𝐂𝐎𝐃𝐄 ❣️", url="https://github.com/Mswpresents/Multi-usage-Bot"),
            ],[
            InlineKeyboardButton("⏮️ ʙᴀᴄᴋ", callback_data="start"),
            InlineKeyboardButton("🔒 ᴄʟᴏꜱᴇ", callback_data="close")
